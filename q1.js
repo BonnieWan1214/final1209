@@ -24,12 +24,18 @@ When the alcohol setting is true, if the age in the registry is 19 or above cons
 /*
 Plan
 
-1. If alcohol is "true"
+1. registry
+If alcohol is "true"
+Asking user What is your age? to put their age in array
 - age <= 19 console log "You are not allow to drink in here. Also get notified
 - age >= 19 console log "You are allow to drink in here.
 
-2. If alcohol is "False"
+2. Toggle
+If alcohol is "False"
 - console log "Everyone is welcome in here!"
+
+3. Notify
+ notify all  the user age that is not allow to drink
 
  */
 
